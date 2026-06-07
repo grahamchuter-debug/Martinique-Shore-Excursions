@@ -101,8 +101,8 @@ PAGES = [
         "title": "Martinique Shore Excursions | Fort-de-France Cruise Tours",
         "description": "Discover the best Martinique shore excursions from Fort-de-France, including Mount Pelée, Saint-Pierre, rum distilleries, rainforest scenery and French Caribbean culture.",
         "canonical": "/",
-        "preload": "images/hero-home.jpg",
-        "og_image": "/images/hero-home.jpg",
+        "preload": "images/hero-home.png",
+        "og_image": "/images/hero-home.png",
         "schemas": [website_schema(), faq_schema(HOME_FAQS)],
     },
     {
@@ -115,8 +115,8 @@ PAGES = [
         "title": "Best Martinique Shore Excursions",
         "description": "Compare the best Martinique shore excursions for cruise passengers, from island sightseeing and volcano views to rum tasting, beaches and cultural tours.",
         "canonical": "/excursions/",
-        "preload": "images/hero-excursions.jpg",
-        "og_image": "/images/hero-excursions.jpg",
+        "preload": "images/hero-excursions.png",
+        "og_image": "/images/hero-excursions.png",
         "schemas": [faq_schema(EXCURSIONS_FAQS)],
     },
     {
@@ -129,8 +129,8 @@ PAGES = [
         "title": "North Martinique Shore Excursion | Mount Pelée & Saint-Pierre",
         "description": "Explore northern Martinique with a cruise-friendly shore excursion featuring Mount Pelée views, Saint-Pierre history, rainforest scenery and French Caribbean culture.",
         "canonical": "/excursions/north-martinique-tour/",
-        "preload": "images/north-martinique.jpg",
-        "og_image": "/images/north-martinique.jpg",
+        "preload": "images/north-martinique.png",
+        "og_image": "/images/north-martinique.png",
         "schemas": [faq_schema(NORTH_FAQS)],
     },
     {
@@ -185,8 +185,8 @@ PAGES = [
         "title": "Saint-Pierre Martinique Cruise Guide | Pompeii of the Caribbean",
         "description": "Learn why Saint-Pierre is known as the Pompeii of the Caribbean and why it is one of the most interesting places to visit on a Martinique shore excursion.",
         "canonical": "/saint-pierre-martinique-cruise-guide/",
-        "preload": "images/saint-pierre.jpg",
-        "og_image": "/images/saint-pierre.jpg",
+        "preload": "images/saint-pierre.png",
+        "og_image": "/images/saint-pierre.png",
         "schemas": [faq_schema(SAINT_PIERRE_FAQS)],
     },
     {
