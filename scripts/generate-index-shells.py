@@ -143,8 +143,8 @@ PAGES = [
         "title": "South Martinique Shore Excursion | Beaches, Villages & Island Views",
         "description": "Discover southern Martinique with beaches, coastal villages, island viewpoints and relaxed French Caribbean scenery on a cruise-friendly shore excursion.",
         "canonical": "/excursions/south-martinique-tour/",
-        "preload": "images/south-martinique.jpg",
-        "og_image": "/images/south-martinique.jpg",
+        "preload": "images/south-martinique.png",
+        "og_image": "/images/south-martinique.png",
         "schemas": [faq_schema(SOUTH_FAQS)],
     },
     {

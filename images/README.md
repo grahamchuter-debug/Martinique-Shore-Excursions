@@ -9,7 +9,7 @@ Replace placeholder JPEGs with Martinique-specific photography before launch.
 | `hero-home.png` | Homepage hero | Diamond Rock (Rocher du Diamant) — **in use** |
 | `hero-excursions.png` | Excursions hub hero | Mount Pelée above Saint-Pierre — **in use** |
 | `north-martinique.png` | North tour cards & hero | Mount Pelée above Saint-Pierre — **in use** |
-| `south-martinique.jpg` | South tour cards & hero | Les Anses-d'Arlet beach |
+| `south-martinique.png` | South tour cards & hero | Les Anses-d'Arlet — St. Henry's Church — **in use** |
 | `cruise-port.jpg` | Port guide | Fort-de-France cruise port and waterfront |
 | `one-day.jpg` | One-day guide hero | Diamond Rock off Martinique coast |
 | `saint-pierre.png` | Saint-Pierre guide & north tour | Mount Pelée above Saint-Pierre — **in use** |
@@ -22,7 +22,7 @@ Replace placeholder JPEGs with Martinique-specific photography before launch.
 | `fort-de-france.png` | Home intro | Les Anses-d'Arlet — St. Henry's Church — **in use** |
 | `mount-pelee.png` | North tour content | Mount Pelée above Saint-Pierre — **in use** |
 | `rainforest.jpg` | North tour content | Rainforest road in northern Martinique |
-| `les-anses-darlet.jpg` | South tour content | Les Anses-d'Arlet cove and boats |
+| `les-anses-darlet.png` | South tour content | Les Anses-d'Arlet — St. Henry's Church — **in use** |
 | `diamond-rock.jpg` | South / one-day content | Diamond Rock islet from coast |
 | `beach-martinique.jpg` | South tour content | Southern Martinique beach |
 
